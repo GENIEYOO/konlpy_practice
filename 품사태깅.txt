@@ -1,0 +1,82 @@
+* Tag : name
+Sejoin Project(ntags=42)
+
+명사류
+
+NNG : 일반 명사(General)
+NNP : 고유 명사(Proper noun)
+NNB : 의존 명사
+NR  : 수사
+NP  : 대명사(이, 그, 저)(Pronoun)
+
+
+
+용언 + 서술격 조사
+VV  : 동사
+VA  : 형용사
+VX  : 보조 용언(auxiliary)
+VCP : 긍정 지정사 : 이다
+VCN : 부정 지정사 : 아니다
+
+
+수식언(modifier)
+
+MM : 관형사
+MAG : 일반부사
+MAJ : 접속부사
+
+
+독립언
+
+IC : 감탄사
+
+조사
+
+JKS : 주격조사
+JKC : 보격 조사(이/가)
+JKG : 관형격 조사(의)
+JKO : 목적격조사(을/를)
+JKB : 부사격조사
+JKV : 호격 조사
+JKQ : 인용격조사(라고)
+JC  : 접속 조사(과)
+JX : 보조사
+
+
+
+어미 
+
+EP : 선어말어미
+EF : 종결어미
+
+
+
+Hannanum(ntags = 22)
+
+NC : 보통 명사
+NQ : 고유 명사
+NB : 의존 명사
+NN : 수사
+NP : 대명사
+PV : 동사
+PA : 형용사
+PX : 보조용언
+MM : 관형사
+MA : 부사
+ll : 감탄사
+JC : 격조사
+JX : 보조사
+JP : 서술격조사
+EP : 선어말어미
+EP : 종결어미
+EC : 연결 어미
+ET : 전성 어미
+XP : 접두사
+XS : 접미사
+s  : 기호
+F  : 외국어
+
+
+
+
+
